@@ -44,24 +44,24 @@ Dataset Used:
 
 ## Project Workflow
 
-### 1️⃣ Data Cleaning & Preparation
+### 1️. Data Cleaning & Preparation
 - Loaded dataset in Google Colab  
 - Converted date column to datetime format  
 - Prepared Prophet compatible data (`ds` & `y`)  
 - Aggregated daily sales data  
 
-### 2️⃣ Feature Engineering
+### 2️. Feature Engineering
 - Generated monthly aggregated sales  
 - Extracted seasonal components & annual trends  
 - Checked holiday spikes  
 
-### 3️⃣ Forecasting Model
+### 3️. Forecasting Model
 - Built forecasting model using Facebook Prophet  
 - Generated 30-day future forecast  
 - Exported forecast results to CSV  
 - Used forecast outputs in Power BI  
 
-### 4️⃣ Power BI Dashboard
+### 4️. Power BI Dashboard
 - Imported historical & forecasted data  
 - Created interactive visuals showing:
   - Sales trends  
