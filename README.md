@@ -1,7 +1,4 @@
-# FUTURE_ML_01
-## FUTURE_ML_01 — AI Powered Sales Forecasting Dashboard
-
-It is implemented for the **Future Interns – Machine Learning Internship (Task 1)**.  
+#AI Powered Sales Forecasting Dashboard  
 The goal is to use historical retail sales data to build an AI-based sales forecasting model and present insights using **Power BI**.
 
 ---
